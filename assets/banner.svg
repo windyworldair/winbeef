@@ -1,0 +1,14 @@
+<svg width="640" height="180" viewBox="0 0 640 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="640" height="180" rx="32" fill="#f6f6f8"/>
+  <text x="50%" y="54%" dominant-baseline="middle" text-anchor="middle"
+        font-family="SF Pro Display, Helvetica Neue, Arial, sans-serif"
+        font-size="54" fill="#222">winbeef</text>
+  <g transform="translate(410, 55) scale(1.2)">
+    <ellipse cx="36" cy="36" rx="22" ry="18" stroke="#222" stroke-width="2.5" fill="none"/>
+    <circle cx="27" cy="30" r="4" fill="#222"/>
+    <circle cx="45" cy="30" r="4" fill="#222"/>
+    <ellipse cx="36" cy="43" rx="7" ry="4" fill="#222"/>
+    <ellipse cx="25" cy="46" rx="3" ry="1.5" fill="#222" opacity="0.35"/>
+    <ellipse cx="47" cy="46" rx="3" ry="1.5" fill="#222" opacity="0.35"/>
+  </g>
+</svg>
