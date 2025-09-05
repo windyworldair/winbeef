@@ -8,7 +8,7 @@
   BeEF is a powerful penetration testing tool focused on the web browser.<br>
   winbeef makes it easy to install and run BeEF natively on Windows systems, enabling Windows users and penetration testers to leverage BeEF without a Linux environment.</b>
 </p>
-- ⚠️ Work in Progress – winbeef is under active development!
+
 
 ---
 
@@ -18,7 +18,7 @@
 - 🖥️ Native Windows support for BeEF
 - 🛠️ Windows-specific scripts and helpers
 - 🔄 Regular updates to keep up with upstream BeEF
-
+- ⚠️ Work in Progress – winbeef is under active development!
 ---
 
 ## 📖 Instructions
