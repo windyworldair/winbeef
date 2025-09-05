@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/windyworldair/winbeef/main/assets/banner.png" alt="winbeef banner" width="600"/>
+  <img src="https://raw.githubusercontent.com/windyworldair/winbeef/main/assets/banner.svg" alt="winbeef banner" width="600"/>
 </p>
 
 <h1 align="center">🐮🍔 winbeef 🍔🐮</h1>
@@ -54,5 +54,5 @@ Copyright (c) windyworldair
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/windyworldair/winbeef/main/assets/cow.png" alt="winbeef mascot" height="120"/>
+  <img src="https://raw.githubusercontent.com/windyworldair/winbeef/main/assets/cow.svg" alt="winbeef mascot" height="120"/>
 </p>
