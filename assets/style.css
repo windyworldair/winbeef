@@ -1,0 +1,16 @@
+#winbeef-banner {
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+  background: #f6f6f8;
+  border-radius: 32px;
+  box-shadow: 0 2px 16px #0001;
+}
+
+#cow-logo {
+  /* Subtle hover animation (optional) */
+  transition: transform 0.2s;
+}
+#cow-logo:hover {
+  transform: scale(1.05) rotate(-3deg);
+}
